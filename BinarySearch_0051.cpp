@@ -2,7 +2,7 @@
 using namespace std;
 
 //Deklarai variable global
-int elem[10];
+int eleme[10];
 int nPanja;
 int x;
 
