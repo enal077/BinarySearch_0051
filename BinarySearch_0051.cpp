@@ -10,7 +10,7 @@ int x;
 void input()
 {
     //Membuat perulangan while
-    while (tr)
+    while (tru)
     {
         cout << "Masukkan banyaknya elemen pada array (maksiaml 10): ";
         cin >> nPanjang;
