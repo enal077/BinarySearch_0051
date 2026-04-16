@@ -3,7 +3,7 @@ using namespace std;
 
 //Deklarai variable global
 int element[10];
-int nPanjan;
+int nPanjang;
 int x;
 
 //Membuat fungsi untuk menginput data ke dalam array
